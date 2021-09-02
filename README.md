@@ -13,4 +13,7 @@ Later, we focus on the Development of the Biomechanical model, in order to obtai
 
 Lastly, we evaluate the obtained parameters of our subject, and compare the described behaviour with their experimental results.
 
-![alt text]{https://github.com/DavidFarreGil/From-the-Visual-Analysis-of-Movement-to-Principled-Models-of-Motivated-Movement/blob/main/Pipeline.png}
+<img src="Pipeline.png"
+     alt="Image"
+     style="float: left; margin-right: 10px;" />
+
